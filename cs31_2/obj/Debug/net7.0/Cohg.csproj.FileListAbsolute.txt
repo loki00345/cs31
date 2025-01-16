@@ -1,0 +1,17 @@
+C:\Users\PC\Downloads\cs31_2\Cohg\bin\Debug\net7.0\Cohg.exe
+C:\Users\PC\Downloads\cs31_2\Cohg\bin\Debug\net7.0\Cohg.deps.json
+C:\Users\PC\Downloads\cs31_2\Cohg\bin\Debug\net7.0\Cohg.runtimeconfig.json
+C:\Users\PC\Downloads\cs31_2\Cohg\bin\Debug\net7.0\Cohg.dll
+C:\Users\PC\Downloads\cs31_2\Cohg\bin\Debug\net7.0\Cohg.pdb
+C:\Users\PC\Downloads\cs31_2\Cohg\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\PC\Downloads\cs31_2\Cohg\obj\Debug\net7.0\Cohg.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\cs31_2\Cohg\obj\Debug\net7.0\Cohg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\cs31_2\Cohg\obj\Debug\net7.0\Cohg.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\cs31_2\Cohg\obj\Debug\net7.0\Cohg.AssemblyInfo.cs
+C:\Users\PC\Downloads\cs31_2\Cohg\obj\Debug\net7.0\Cohg.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\cs31_2\Cohg\obj\Debug\net7.0\Cohg.csproj.Up2Date
+C:\Users\PC\Downloads\cs31_2\Cohg\obj\Debug\net7.0\Cohg.dll
+C:\Users\PC\Downloads\cs31_2\Cohg\obj\Debug\net7.0\refint\Cohg.dll
+C:\Users\PC\Downloads\cs31_2\Cohg\obj\Debug\net7.0\Cohg.pdb
+C:\Users\PC\Downloads\cs31_2\Cohg\obj\Debug\net7.0\Cohg.genruntimeconfig.cache
+C:\Users\PC\Downloads\cs31_2\Cohg\obj\Debug\net7.0\ref\Cohg.dll
